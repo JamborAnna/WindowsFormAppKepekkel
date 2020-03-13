@@ -1,0 +1,12 @@
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.csprojAssemblyReference.cache
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.Form1.resources
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.Properties.Resources.resources
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.csproj.GenerateResource.cache
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\WindowsFormsAppDinamick.exe.config
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\WindowsFormsAppDinamick.exe
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\WindowsFormsAppDinamick.pdb
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.exe
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\obj\Debug\WindowsFormsAppDinamick.pdb
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\kep1.jpg
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\kep2.jpg
+C:\Users\Diák\source\repos\WindowsFormsAppDinamick\WindowsFormsAppDinamick\bin\Debug\kep3.jpg
